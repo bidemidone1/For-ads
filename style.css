@@ -15,3 +15,23 @@
     justify-content: center;
     /* align-items: center; */
 }
+
+a {
+    color: green;
+    color: purple;
+}
+
+h2:hover {
+    margin-top: -3px;
+    transition: 1s;
+    color: blue;
+    /* color: black; */
+    scale: 0.8;
+    /* transition: 1s; */
+}
+
+img:hover {
+    scale: 0.95;
+    transition: 1s;
+}
+
